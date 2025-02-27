@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Shaho Toofani, A software developer, Skilled in developing Web Applications, Worked for high-tech Netherlands companies. Passionate about the new technologies: React.js, Node.js, TypeScript, CSS in JS, ... in no particular order. I love exploring new technologies and playing around with them.
+I'm Shaho Toofani, A software developer, Skilled in developing Web Applications, Worked for high-tech Netherlands companies. Passionate about the new technologies: React.js, Vue.js, Node.js, TypeScript, CSS in JS, ... in no particular order. I love exploring new technologies and playing around with them.
 
 <!--
 **shaho/shaho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
